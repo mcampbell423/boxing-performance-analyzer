@@ -4,3 +4,5 @@
 | --- | ---: | --- |
 | ESP32-C3 development board | 1 | Initial |
 | BMI270 IMU breakout | 1 | — |
+| Breadboard | 1 | - |
+| Jumper wires | - | - |
